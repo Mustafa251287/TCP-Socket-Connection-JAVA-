@@ -1,0 +1,16 @@
+# Servelet_java
+Simple Server Client Full duplex chat app(Console based)
+Client Server Full-Duplex Connection
+To use my console based app
+ 
+Server need to be Created First
+Create server by Compiling running Server files
+And enter any port
+
+then One Client can Connect to that Respective Server by compiling and running Client java files
+Making sure you enter the correct port and ipv4 address of Server Machine
+
+By this codes you can make Full-Duplex one on one connection via Server Client
+If you have any Queries Whatsapp me @+918928307917 
+
+To terminate the connection Type "exit" on client ,It will close the connection between client and server
