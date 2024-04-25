@@ -1,0 +1,4 @@
+to compile Server java codes
+Just type:
+javac Server.java
+java Server
